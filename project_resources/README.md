@@ -1,2 +1,2 @@
 ### Github Repo
-https://github.com/mjzone/bookstore-v2
+https://github.com/Scienstein2497/Seeds-of-Wisdom
